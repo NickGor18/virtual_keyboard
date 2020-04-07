@@ -1,0 +1,99 @@
+.first{
+    position: relative;
+    border-radius: 5%;
+    border: 1px solid blueviolet;
+    background-color: blue;
+    height: 15px;
+    width: 15px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    top: 30px;
+    left: 110px;
+}
+.second{
+    position: relative;
+    border-radius: 5%;
+    border: 1px solid blueviolet;
+    background-color: blue;
+    height: 15px;
+    width: 15px;
+    padding: 15px;
+    display: inline;
+    margin: 5px;
+    top: 50px;
+    left: 155px;
+}
+.third{
+    position: relative;
+    border-radius: 5%;
+    border: 1px solid blueviolet;
+    background-color: blue;
+    height: 15px;
+    width: 15px;
+    padding: 15px;
+    display: inline;
+    margin: 5px;
+    top: 110px;
+    left: -565px;
+}
+.fourth{
+    position: relative;
+    border-radius: 5%;
+    border: 1px solid blueviolet;
+    background-color: blue;
+    height: 15px;
+    width: 15px;
+    padding: 15px;
+    display: inline;
+    margin: 5px;
+    top: 165px;
+    left: -1280px;
+    
+}
+.fifth{
+    position: relative;
+    border-radius: 5%;
+    border: 1px solid blueviolet;
+    background-color: blue;
+    height: 15px;
+    width: 15px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    top: 180px;
+    left: 70px;
+}
+.message{
+    position: relative;
+    top: 180px;
+    left: 300px;
+    font-family: fantasy;
+}
+#Backspace{
+    width: 70px;
+}
+#Space{
+    width: 164px;
+    padding-left: 137px;
+}
+#ControlLeft, #MetaLeft, #AltLeft, #AltRight, #ControlRight, #ArrowLeft,#ArrowRight,#ArrowDown{
+    padding-right: 30px;
+}
+.clicked{
+    border-radius: 25%;
+    border: 2px solid gray;
+}
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div:hover{
+    cursor: pointer;
+}
+textarea{
+    position: relative;
+    display: block;
+    margin-left: 180px;
+    width: 700px;
+    height: 100px;
+}
